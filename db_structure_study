@@ -1,0 +1,29 @@
+Database
+
+* Structure
+1. 논리적
+2. 물리적
+
+* Table Relation
+1. 1 - 1 (일대일)
+	- uid, name, pw
+
+2. 1 - * (일대다)
+	- uid, mid, content
+	
+3. * - * (다대다)
+
+
+* Key
+	- primary key
+	- foreign key
+
+* Join
+	- inner join: merge와 비슷
+	- left join
+	- right join
+	- outer join
+	
+* View
+	- 가상적 Table
+	- 물리적 구조
